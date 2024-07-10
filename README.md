@@ -164,14 +164,10 @@ seamless access to healthcare services anytime, anywhere.
 
 
 
-# [E-Delivero (Food Delivery)](https://apps.apple.com/us/app/edelivero-food-delivery/id1610987861)
-[`📲 Available on the App Store`](https://apps.apple.com/us/app/edelivero-food-delivery/id1610987861)
+# [Auxi]([https://apps.apple.com/tt/app/auxi/id1672124816])
+[`📲 Available on the App Store`](https://apps.apple.com/tt/app/auxi/id1672124816)
 
-eDelivero - Food Delivery simplifies your dining experience by bringing a wide array of delicious cuisines directly to
-your doorstep. Whether you're craving local favorites or exploring new tastes, this app offers convenient ordering and
-swift delivery services. Enjoy browsing through diverse menus from nearby restaurants, place your order with ease,
-and track its progress in real-time. With eDelivero, satisfy your appetite effortlessly and enjoy meals from the comfort
-of your home.
+AUXI is a social decision-making app designed to simplify group choices. Users can create events, suggest activities, and invite friends to participate. Participants can vote anonymously on suggestions, making it easier to decide on plans like where to eat or what movie to watch. The app helps streamline decision-making for various activities, ensuring everyone's preferences are considered.
 
 <p align="center">
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268949847-eac13ccb-a6e0-44b7-b659-41c3e364dc09.png" />

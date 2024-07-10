@@ -80,13 +80,12 @@ Air mask. Crafted from soft silicone via 3D printing, each mask ensures a precis
 promoting safety and peace of mind.
 
 <p align="center">
-  <img width="405" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/273446889-cc6d3856-9ad6-4da4-b89c-dd1b7b913199.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/19569099/273446403-b014f455-563e-4c57-9766-945bc531563a.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/273446401-aa5ed99c-492b-4959-97f7-0414c0fd04a9.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_4" src="https://user-images.githubusercontent.com/19569099/273446399-a3613165-2ee6-42c5-82bd-085d0dbf447a.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_5" src="https://user-images.githubusercontent.com/19569099/273446397-58f7a250-a766-45ea-8857-88dac85abe69.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_6" src="https://user-images.githubusercontent.com/19569099/273446383-3de81fcd-3199-4016-b2aa-a158eeac257a.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_7" src="https://user-images.githubusercontent.com/19569099/273446393-0e36bf5d-8aa2-44e8-a907-e93032a62a19.jpg" />
+  <img width="405" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas1.png" />
+  <img width="200" alt="BaseBackground_2796x1290_2" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas2.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas3.png" />
+  <img width="200" alt="BaseBackground_2796x1290_4" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas4.png" />
+  <img width="200" alt="BaseBackground_2796x1290_5" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas5.png" />
+  <img width="200" alt="BaseBackground_2796x1290_6" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas6.png" />
 </p>
 
 **Technologies**

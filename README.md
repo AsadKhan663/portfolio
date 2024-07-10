@@ -32,7 +32,7 @@ about banquet halls and world-class restaurants within the hotel chain.
 * Apple MapKit
 * CoreLocation
 * Push Notifications
-* APPLE PAY & 3rd party payment's
+* 3rd party payment's
 * Firebase (Crashlytics, Auth,Analytics)
 * CoreData
 * Keychain
@@ -63,14 +63,14 @@ subscription-based, costing $6.99 per month. It is compatible with iPhone requir
 **Technologies**
 * Swift (UIKit & SwiftUI)
 * Core Data
-* Combine
 * StoreKit
 * MVVM
 * Push Notifications
 * Storyboard and Xibs
 * URLSession
 * Operations Queue and GCD
-
+* Alamofire
+  
 
 # [Atlas Air](https://apps.apple.com/pk/app/atlas-air/id1637220092)
 [`📲 Available on the App Store`](https://apps.apple.com/pk/app/atlas-air/id1637220092)
@@ -92,7 +92,6 @@ promoting safety and peace of mind.
 **Technologies**
 * Swift
 * Core Data
-* Health Kit
 * Optimized for iPhone and iPad
 * MVC
 * URLSession
@@ -148,7 +147,6 @@ seamless access to healthcare services anytime, anywhere.
 
 **Technologies**
 * Swift
-* HealthKit 
 * Core Data
 * Local Notifications
 * Optimized for iPhone and iPad
@@ -184,10 +182,8 @@ AUXI is a social decision-making app designed to simplify group choices. Users c
 
 **Technologies**
 * Swift
-* HealthKit 
 * Core Data
 * Local Notifications
-* StoreKit
 * Optimized for iPhone and iPad
 * MVC
 * AVFoundation

@@ -20,7 +20,7 @@ car rentals. The app supports secure online payments and provides the latest off
 about banquet halls and world-class restaurants within the hotel chain.
 
 <p align="center">
-  <img width="200" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/dcc544bedf9262fa26e31579b50a9ed99bea0b00/PC_SignUp_Screen.png" />
+  <img width="200" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/main/PC_SignUp_Screen.png" />
   <img width="200" alt="BaseBackground_2796x1290_2" src="https://github.com/AsadKhan663/Project-images/blob/main/PC_Home_Screen.png" />
   <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/PC_Find_Hotel_Screen.png" />
   <img width="200" alt="BaseBackground_2796x1290_4" src="https://github.com/AsadKhan663/Project-images/blob/main/PC_Room_Selection_Screen.png" />

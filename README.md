@@ -160,7 +160,7 @@ seamless access to healthcare services anytime, anywhere.
 
 
 
-# [Auxi]([https://apps.apple.com/tt/app/auxi/id1672124816])
+# [Auxi](https://apps.apple.com/tt/app/auxi/id1672124816)
 [`📲 Available on the App Store`](https://apps.apple.com/tt/app/auxi/id1672124816)
 
 AUXI is a social decision-making app designed to simplify group choices. Users can create events, suggest activities, and invite friends to participate. Participants can vote anonymously on suggestions, making it easier to decide on plans like where to eat or what movie to watch. The app helps streamline decision-making for various activities, ensuring everyone's preferences are considered.
@@ -194,7 +194,7 @@ AUXI is a social decision-making app designed to simplify group choices. Users c
 
 
 
-# [Roomph! PK Hotel Booking App]([https://apps.apple.com/us/app/roomph-pk-hotel-booking-app/id1558380563])
+# [Roomph! PK Hotel Booking App](https://apps.apple.com/us/app/roomph-pk-hotel-booking-app/id1558380563)
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/roomph-pk-hotel-booking-app/id1558380563)
 
 Roomph is a hotel booking app designed for travelers in Pakistan. It offers a wide range of budget-friendly accommodations across over 90 destinations, including cities like Karachi, Lahore, Islamabad, and tourist spots like Swat and Murree. Users can search for hotels based on location, price, and amenities, and benefit from features like free Wi-Fi, air conditioning, and clean washrooms. The app supports easy booking with options to "Book Now, Pay Later," provides access to ratings and reviews, and includes a loyalty program for frequent users.

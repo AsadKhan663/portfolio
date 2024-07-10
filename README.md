@@ -7,7 +7,7 @@ I'm currently seeking an iOS Developer position in the EU and especially Germany
 
 # Skills
 
-Currently using Swift, +5yrs, through all versions up to recent v5.0
+Currently using Swift, 4 years, through all versions up to recent v5.0
 REST, GraphQL(Apollo), Firebase, Unit Tests, CoreData, CoreGraphics, CoreAnimation,Amazon S3 Bucket, Google Maps, Map box, Map Kit, One signal, Agora, Sinch, AVFoundation, Accessibility, Apple Account Creation And Maintenance Publish iOS app on appstore
 Tools: GitHub, Bitbucker, Jira,Redmine, Trello, Skype
 

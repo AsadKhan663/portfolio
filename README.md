@@ -80,7 +80,7 @@ Air mask. Crafted from soft silicone via 3D printing, each mask ensures a precis
 promoting safety and peace of mind.
 
 <p align="center">
-  <img width="405" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas1.png" />
+  <img width="200" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas1.png" />
   <img width="200" alt="BaseBackground_2796x1290_2" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas2.png" />
   <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas3.png" />
   <img width="200" alt="BaseBackground_2796x1290_4" src="https://github.com/AsadKhan663/Project-images/blob/main/atlas4.png" />

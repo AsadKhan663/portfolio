@@ -32,10 +32,10 @@ about banquet halls and world-class restaurants within the hotel chain.
 **Technologies**
 * Swift (UIKit)
 * Apple MapKit
-* Firebase (Crashlytics, Auth)
 * CoreLocation
 * Push Notifications
 * APPLE PAY & 3rd party payment's
+* Firebase (Crashlytics, Auth,Analytics)
 * CoreData
 * Keychain
 * MVVM
@@ -67,10 +67,8 @@ subscription-based, costing $6.99 per month. It is compatible with iPhone requir
 * Combine
 * StoreKit
 * MVVM
-* Fastlane
 * Push Notifications
 * Storyboard and Xibs
-* Dynamic Localization
 * URLSession
 * Operations Queue and GCD
 
@@ -160,6 +158,7 @@ seamless access to healthcare services anytime, anywhere.
 * Photos
 * Agora SDK
 * Push Notifications
+* Firebase
 * Photos
 
 
@@ -192,6 +191,7 @@ of your home.
 * AVFoundation
 * Photos
 * Push Notifications
+* Firebase (Crashlytics, Auth)
 * Google Maps
 * Photos
 

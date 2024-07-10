@@ -170,11 +170,17 @@ seamless access to healthcare services anytime, anywhere.
 AUXI is a social decision-making app designed to simplify group choices. Users can create events, suggest activities, and invite friends to participate. Participants can vote anonymously on suggestions, making it easier to decide on plans like where to eat or what movie to watch. The app helps streamline decision-making for various activities, ensuring everyone's preferences are considered.
 
 <p align="center">
-  <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268949847-eac13ccb-a6e0-44b7-b659-41c3e364dc09.png" />
-  <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/19569099/268949854-14d22c70-a965-47e8-8977-9f66198fcda2.png" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268949857-e02474b3-c900-428c-a957-2d57ee6471b0.png" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268949860-cbf5fb6e-b5ea-410a-97f4-f1864ef7f16e.png" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268949863-cbc4ec78-f6db-42ea-b954-0812ece3fa60.png" />
+ <img width="200" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi1.png" />
+  <img width="200" alt="BaseBackground_2796x1290_2" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi2.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi3.png" />
+  <img width="200" alt="BaseBackground_2796x1290_4" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi4.png" />
+  <img width="200" alt="BaseBackground_2796x1290_5" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi5.png" />
+  <img width="200" alt="BaseBackground_2796x1290_6" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi6.png" />
+   <img width="200" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi7.png" />
+  <img width="200" alt="BaseBackground_2796x1290_2" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi8.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi9.png" />
+  <img width="200" alt="BaseBackground_2796x1290_4" src="https://github.com/AsadKhan663/Project-images/blob/main/auxi10.png" />
+
 </p>
 
 **Technologies**

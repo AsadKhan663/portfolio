@@ -51,12 +51,13 @@ analyze deals, access coaching videos, share deals with colleagues, and schedule
 subscription-based, costing $6.99 per month. It is compatible with iPhone requiring iOS 13.0 or later for mobile devices
 
 <p align="center">
-  <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268294627-6d0e5a77-d4fb-43f7-b7aa-59f63d896d73.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/19569099/268294633-b450426e-9955-479a-a4e5-e06c56e5b4ba.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268294637-38c065bf-3689-41a1-8896-9d60b55ca138.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268294640-ddb5ea91-813b-4b24-a4c2-617bdd720a45.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268294645-4fcc3b17-7e25-4020-8da3-601311bf828a.jpg" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268294651-5db5e33e-4b9c-4198-9a67-98bf13facb25.jpg" />
+  <img width="200" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/main/deal1.png" />
+  <img width="200" alt="BaseBackground_2796x1290_2" src="https://github.com/AsadKhan663/Project-images/blob/main/deal2.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/deal3.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/deal4.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/deal5.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/deal6.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/deal7.png" />
 </p>
 
 **Technologies**

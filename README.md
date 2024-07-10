@@ -166,7 +166,7 @@ seamless access to healthcare services anytime, anywhere.
 
 # Contact Info:
 - Email: asadgillani1995@gmail.com
-- LinkedIn: [Asad Ullah](https://wwww.linkedin.com/in/asad-ullah-a236601a3/)
+- LinkedIn: [Asad Ullah](https://www.linkedin.com/in/asad-ullah-a236601a3/)
 - Github: [@AsadKhan663](https://github.com/AsadKhan663/portfolio.git)
 - Whatsapp: +49 176 69018015
 

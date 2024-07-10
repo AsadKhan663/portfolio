@@ -1,7 +1,7 @@
 # iOS Developer Portfolio
 
 
-Hey there and Welcome to my iOS projects repository! Here, you'll find a selection of my recent work, showcasing my proficiency in Swift, Objective-C, Xcode, UIKit, and SwiftUI. I have a strong grasp of MVC and MVVM design patterns, and experience with RESTful APIs, Core Data, and Git. Based in Berlin, Germany, I am actively seeking an iOS Developer position within the EU, particularly in Germany 🇩🇪. I am open to relocation or remote opportunities. Explore my projects to see my skills in action, and feel free to reach out for further discussions.
+Hey there and welcome! 👋 I appreciate your interest in exploring my iOS projects. In this repository, you'll find a carefully curated selection of my recent work that showcases my skills and expertise. I'm currently seeking an iOS Developer position in the EU and especially Germany 🇩🇪. Currently, I am living in Mainz, Germany and I am willing to relocate or accept a Remote position.
 
 
 # Skills

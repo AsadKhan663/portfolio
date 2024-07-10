@@ -20,13 +20,11 @@ car rentals. The app supports secure online payments and provides the latest off
 about banquet halls and world-class restaurants within the hotel chain.
 
 <p align="center">
-  <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268954351-a0743340-39bd-4a45-b299-4add0146b404.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/19569099/268954357-8abd3e00-6b1e-4992-ac66-b501e5f00a3c.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268954361-4dc2a807-4055-4df6-8a42-5e851835b5a0.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_4" src="https://user-images.githubusercontent.com/19569099/268954363-f34171bc-034d-476a-9634-3854ccea3388.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_5" src="https://user-images.githubusercontent.com/19569099/268954364-d64b17f0-b264-47a0-b5dc-b4e69402104a.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_6" src="https://user-images.githubusercontent.com/19569099/268954367-9cf7b45e-dedd-4971-bda5-cdffa914bf8f.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_7" src="https://user-images.githubusercontent.com/19569099/268954371-ca83db9b-3148-4017-b94c-88a7eccc0624.jpeg" />
+  <img width="200" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/dcc544bedf9262fa26e31579b50a9ed99bea0b00/PC_SignUp_Screen.png" />
+  <img width="200" alt="BaseBackground_2796x1290_2" src="https://github.com/AsadKhan663/Project-images/blob/main/PC_Home_Screen.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/PC_Find_Hotel_Screen.png" />
+  <img width="200" alt="BaseBackground_2796x1290_4" src="https://github.com/AsadKhan663/Project-images/blob/main/PC_Room_Selection_Screen.png" />
+  <img width="200" alt="BaseBackground_2796x1290_5" src="https://github.com/AsadKhan663/Project-images/blob/main/PC_Offers_Screen.png" />
 </p>
 
 **Technologies**

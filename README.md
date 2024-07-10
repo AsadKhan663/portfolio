@@ -101,6 +101,7 @@ promoting safety and peace of mind.
 * Operations Queue and GCD
 * Push Notifications
 * Storyboard and Xibs
+* Alamofire
 
 
 # [Sleep Happy:Sleep Sound](https://apps.apple.com/pk/app/sleep-happy-sleep-sounds/id1581433912)
@@ -122,10 +123,11 @@ and deep sleep.
 **Technologies**
 * Swift
 * Push Notifications
+* StoreKit
 * MVVM
 * AVFoundation
-* Agora
 * Storyboard and Xibs
+* Alamofire
 
   
 
@@ -151,7 +153,6 @@ seamless access to healthcare services anytime, anywhere.
 * HealthKit 
 * Core Data
 * Local Notifications
-* StoreKit
 * Optimized for iPhone and iPad
 * MVC
 * AVFoundation
@@ -160,6 +161,7 @@ seamless access to healthcare services anytime, anywhere.
 * Push Notifications
 * Firebase
 * Photos
+* Alamofire
 
 
 

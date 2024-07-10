@@ -112,10 +112,9 @@ your sleep environment with adjustable timers and mix different sounds to create
 and deep sleep.
 
 <p align="center">
-  <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/269074905-8915c43d-56eb-4f91-a3b5-9ccd13a3af7c.png" />
-  <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/19569099/269074881-d0c3e040-0ad6-419f-954c-8cd4e4069df7.png" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/269074891-7d427cb1-5152-451b-83aa-edf7ed0908c2.png" />
-  <img width="200" alt="BaseBackground_2796x1290_4" src="https://user-images.githubusercontent.com/19569099/269074900-9ac91cee-5230-44d8-a064-d66d06103006.png" />
+  <img width="200" alt="BaseBackground_2796x1290_1" src="https://github.com/AsadKhan663/Project-images/blob/main/SleepHappy1.png" />
+  <img width="200" alt="BaseBackground_2796x1290_2" src="https://github.com/AsadKhan663/Project-images/blob/main/SleepHappy2.png" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://github.com/AsadKhan663/Project-images/blob/main/SleepHappy3.png" />
 </p>
 
 **Technologies**

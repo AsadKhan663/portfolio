@@ -98,6 +98,8 @@ promoting safety and peace of mind.
 * Push Notifications
 * Storyboard and Xibs
 * Alamofire
+* AR/VR Face Meshing
+* 3D Face Model
 
 
 # [Sleep Happy:Sleep Sound](https://apps.apple.com/pk/app/sleep-happy-sleep-sounds/id1581433912)
